@@ -1,3 +1,3 @@
 # ubiquitous-waffle
 
-Contains code for my RISC-V projects mini projects like UART programs and the upcoming mini-GPIO driver.
+Contains code forom my blog posts such as RISC-V projects mini projects like UART programs and the upcoming mini-GPIO driver.
